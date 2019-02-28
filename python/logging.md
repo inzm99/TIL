@@ -1,3 +1,13 @@
+# Logging Level
+
+debug,info,warn,error,criticalの5種類
+
+    app.logger.debug('debug')                                                   
+    app.logger.info('info')                                                     
+    app.logger.warn('warn')                                                     
+    app.logger.error('error')                                                   
+    app.logger.critical('critical')   
+
 # loggerの設定
 
 ```python
