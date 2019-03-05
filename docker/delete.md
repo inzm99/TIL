@@ -25,3 +25,7 @@ imageタグが``` <none>:<none> ```のうちコンテナから参照されてい
 docker system prune
 ```
 停止コンテナ、未使用イメージ、未使用ボリュームをまとめて削除できる
+#### volumeも破棄する場合は
+```
+docker system prune --volumes
+```
