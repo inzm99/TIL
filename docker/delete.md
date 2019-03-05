@@ -18,7 +18,7 @@ docker image prune
 ```
 docker rmi $(docker images -f 'dangling=true' -q)
 ```
-imageタグが<none>:<none> のうちコンテナから参照されていないものを削除できる
+imageタグが``` <none>:<none> ```のうちコンテナから参照されていないものを削除できる
 コンテナから参照されていて消えないものはコンテナを先に消すことで削除できる
 ### コンテナ、イメージ、ボリュームの一括削除
 ```
