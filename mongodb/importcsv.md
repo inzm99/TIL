@@ -1,4 +1,4 @@
-# Howto import in mongodb for csv file
+# Howto import to mongodb for csv file
 
 ## インポートを実行
 
