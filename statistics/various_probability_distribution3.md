@@ -62,7 +62,7 @@ f(x) = 0 (X<a, X>b)
 
 ### 連続型
 
-XとYの童子確率分布を表す関数　＝　同時確率密度関数f(x,y)
+XとYの同時確率分布を表す関数　＝　同時確率密度関数f(x,y)
 確率Pはこの確率密度関数から
 
 ![](https://bellcurve.jp/statistics/wp-body/wp-content/ql-cache/quicklatex.com-007f0186e67e1b882ebb59416d26ebfe_l3.png)
